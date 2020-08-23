@@ -1,19 +1,41 @@
 {
-  "posts": [
+  "product": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "id": 123,
+      "title": "Mango",
+      "price": "2000",
+      "detail": "This is Mango This is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is Mango",
+      "rating": 3,
+      "image": "https://st.depositphotos.com/1642482/3698/i/950/depositphotos_36983317-stock-photo-mango.jpg"
+    },
+    {
+      "id": 321,
+      "title": "Apple",
+      "price": "4000",
+      "detail": "This is Mango This is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is Mango",
+      "rating": 4,
+      "image": "https://bluecure.org/wp-content/uploads/2016/03/apples-prostate-cancer-curing-foods.jpg"
+    },
+    {
+      "id": 123,
+      "title": "Banana",
+      "price": "3000",
+      "detail": "This is Mango This is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is Mango",
+      "rating": 2,
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
     }
   ],
-  "comments": [
+  "cart": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 123,
+      "title": "Mango",
+      "price": "2000",
+      "detail": "This is Mango This is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is MangoThis is Mango",
+      "rating": 3,
+      "image": "https://st.depositphotos.com/1642482/3698/i/950/depositphotos_36983317-stock-photo-mango.jpg"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "cartItemCount": {
+    "count": 1
   }
 }
