@@ -25,7 +25,7 @@
       "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
     }
   ],
-  "cart":{"product": [
+  "cart": [
     {
       "id": 123,
       "title": "Mango",
@@ -35,6 +35,5 @@
       "image": "https://st.depositphotos.com/1642482/3698/i/950/depositphotos_36983317-stock-photo-mango.jpg"
     }
   ],
-  "itemCount": 1}
   
 }
